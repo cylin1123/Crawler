@@ -6,4 +6,8 @@
 * 蘋果新聞
 
 ### Package
-* 
+* BeautifulSoup
+~~~
+pip install beautifulsoup4
+pip install lxml
+~~~
