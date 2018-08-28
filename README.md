@@ -1,5 +1,5 @@
 ### 網站
-* PCHOME PHOTO
+* PCHOME PHOTO (網站已改機制,程式碼無法使用)
 * PIXNET
 * XUITE
 * FLICKER
