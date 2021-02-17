@@ -1,3 +1,0 @@
-import a
-
-a.main()
